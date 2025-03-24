@@ -1,0 +1,1 @@
+cdp_variance = np.var(cdp_region)

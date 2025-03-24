@@ -1,0 +1,16 @@
+Accuracy: 0.9750
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ First Print       0.95      1.00      0.98        21
+Second Print       1.00      0.95      0.97        19
+
+    accuracy                           0.97        40
+   macro avg       0.98      0.97      0.97        40
+weighted avg       0.98      0.97      0.97        40
+
+
+Confusion Matrix:
+[[21  0]
+ [ 1 18]]
